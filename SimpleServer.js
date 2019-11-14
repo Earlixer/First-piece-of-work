@@ -13,7 +13,6 @@ const players = [
     {id: 4 , name: 'An Earl', level: 'Majestic, a beauty to watch. Will bring you to tears'},
     {id: 5 , name: 'Lee', level: 'If you liked Earl, you\'ll love Lee. The greatest of his time'},
     {id: 6 , name: 'Christian', level: 'Some say he\'s the future of football. We think they\'re wrong. He\'s... The future'}
-
 ];
 
 
