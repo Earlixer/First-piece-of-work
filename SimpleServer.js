@@ -10,8 +10,10 @@ const players = [
     {id: 1, name: 'Messi', level: 'Legend'},
     {id: 2 , name: 'Ronaldo', level: 'Okay'},
     {id: 3 , name: 'James', level: 'Who is this guy?'},
-    {id: 4 , name: 'An Earl', level: 'Majestic, a beauty to watch. Will bring you to tears'}
+    {id: 4 , name: 'An Earl', level: 'Majestic, a beauty to watch. Will bring you to tears'},
+    {id: 5 , name: 'Lee', level: 'If you liked Earl, you\'ll love Lee. The greatest of his time'}
 ];
+
 
 app.get('/', (req, res) => {
     res.send('3 Soccer players and an Earl...');
